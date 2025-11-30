@@ -1,4 +1,3 @@
-// pages/index.tsx
 import type { NextPage } from "next";
 import Head from "next/head";
 import { HERO_IMAGE, PROPERTYLISTINGSAMPLE } from "../constants";

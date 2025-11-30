@@ -1,4 +1,3 @@
-// components/common/PropertyCard.tsx
 import React from "react";
 import type { PropertyProps } from "../../interfaces";
 
